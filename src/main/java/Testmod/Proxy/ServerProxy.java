@@ -1,4 +1,4 @@
-package Testmod.Proxy;
+package testmod.Proxy;
 
 
 /**

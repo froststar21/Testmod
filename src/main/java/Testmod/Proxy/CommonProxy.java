@@ -1,7 +1,7 @@
-package Testmod.Proxy;
-import Testmod.ModBlocks;
-import Testmod.ModItems;
-import Testmod.ModRecipes;
+package testmod.Proxy;
+import testmod.ModBlocks;
+import testmod.ModItems;
+import testmod.ModRecipes;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
